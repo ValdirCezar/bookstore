@@ -1,0 +1,19 @@
+0000000000000000000000000000000000000000 1eb2af349fb80436279fb9189b43cba57a778694 ValdirCezar <valdircezar312@gmail.com> 1610891751 -0300	commit (initial): initial commit
+1eb2af349fb80436279fb9189b43cba57a778694 61498de5f72ff788cbba77dc2b0b23eb31552cd1 ValdirCezar <valdircezar312@gmail.com> 1610905791 -0300	commit: angular material instalado no projeto
+61498de5f72ff788cbba77dc2b0b23eb31552cd1 56363cb5d2adbbdb29449492696bc8f7c2b967a3 ValdirCezar <valdircezar312@gmail.com> 1611016758 -0300	commit: header e footer implementados
+56363cb5d2adbbdb29449492696bc8f7c2b967a3 c27bb7122eb357ead8d7ae8f6bdacdc2ca5e7249 ValdirCezar <valdircezar312@gmail.com> 1611091274 -0300	commit: componente nav criado
+c27bb7122eb357ead8d7ae8f6bdacdc2ca5e7249 38ed9f5e06fd807a1069e171a2748e3b780189ed ValdirCezar <valdircezar312@gmail.com> 1611092097 -0300	commit: home implementado com rota
+38ed9f5e06fd807a1069e171a2748e3b780189ed 054a51492ae94f784258f7572a9edeb38d8b2473 ValdirCezar <valdircezar312@gmail.com> 1611242077 -0300	commit: categoria-read foi implementado
+054a51492ae94f784258f7572a9edeb38d8b2473 bd574fb6c07d31827deff307dd20319331288003 ValdirCezar <valdircezar312@gmail.com> 1611251062 -0300	commit: ajustes no component-read
+bd574fb6c07d31827deff307dd20319331288003 45f77b0067c5c181ef080b7748f6e6485e355595 ValdirCezar <valdircezar312@gmail.com> 1611338161 -0300	commit: Metodo CREATE implementado para Categoria
+45f77b0067c5c181ef080b7748f6e6485e355595 2e8ddfebfb77777a85f6525b55997bd55ce94474 ValdirCezar <valdircezar312@gmail.com> 1611347303 -0300	commit: finalizando o metodo CREATE
+2e8ddfebfb77777a85f6525b55997bd55ce94474 ac8b88aa6f9bf66f31ab4780a0066a52acf34edf ValdirCezar <valdircezar312@gmail.com> 1611586827 -0300	commit: Categoria DELETE implementada
+ac8b88aa6f9bf66f31ab4780a0066a52acf34edf df1da5aee630d2e0d25102cf8e3f4cac500038c3 ValdirCezar <valdircezar312@gmail.com> 1611599617 -0300	commit: UPDATE para Categoria foi implementado
+df1da5aee630d2e0d25102cf8e3f4cac500038c3 e051ee61469e000d47c3b29da16bd4ac7e138677 ValdirCezar <valdircezar312@gmail.com> 1611693031 -0300	commit: leitura de todos os livros por categoria implementado
+e051ee61469e000d47c3b29da16bd4ac7e138677 e110327b88e719b46900804e2db428d74bfe2822 ValdirCezar <valdircezar312@gmail.com> 1611881154 -0300	commit: CREATE para Livro
+e110327b88e719b46900804e2db428d74bfe2822 21f343bb561160803c6bea0df14044d881b2d9dc ValdirCezar <valdircezar312@gmail.com> 1612176342 -0300	commit: UPDATE para Livro implementado
+21f343bb561160803c6bea0df14044d881b2d9dc 573067f8268221ae27fb064aeed80d0068d54390 ValdirCezar <valdircezar312@gmail.com> 1612177719 -0300	commit: DELETE para Livro implementado
+573067f8268221ae27fb064aeed80d0068d54390 8ba6bdb363e7b8bbffdefe52cceaec447bdde7e3 ValdirCezar <valdircezar312@gmail.com> 1612190151 -0300	commit: READ para Livro implementado
+8ba6bdb363e7b8bbffdefe52cceaec447bdde7e3 eae7c03d2afcbbd84820763c30b55f96cae8c053 ValdirCezar <valdircezar312@gmail.com> 1612204264 -0300	commit: deploy
+eae7c03d2afcbbd84820763c30b55f96cae8c053 0a018d062237b333fc5632fbca391e5b93bf37a3 ValdirCezar <valdircezar312@gmail.com> 1612204735 -0300	commit: arquivos para deploy gerados
+0a018d062237b333fc5632fbca391e5b93bf37a3 a9fb6f1be62be4ff4159d1ee3aac453211ea4226 ValdirCezar <valdircezar312@gmail.com> 1612205682 -0300	commit: arquivos para deploy gerados
